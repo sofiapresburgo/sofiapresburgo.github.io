@@ -1,70 +1,24 @@
-#<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sofia Presburgo</title>
-</head>
-<body>
+# Welcome to my page
+## Hi, I'm Sofia Presburgo!
 
-  <header>
-    <h1>Sofia Presburgo</h1>
-    <p>Master’s student in Corporate Communication in Milan</p>
-    <nav>
-      <a href="mailto:sofia.presburgo@studenti.unimi.it">Email</a> |
-      <a href="https://github.com/sofiapresburgo" target="_blank" rel="noopener noreferrer">GitHub</a> |
-      <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-    </nav>
-  </header>
+I am a 21-year-old student from Palermo, currently living in Milan. I hold a Bachelor's degree in Communication Sciences from the *University of Palermo* and I'm currently pursuing a Master's degree in **[Corporate Communication](https://www.unimi.it/it/corsi/laurea-magistrale/comunicazione-pubblica-e-dimpresa-com)** at the *University of Milan*.
 
-  <hr>
+During my studies, I also completed an Erasmus exchange semester at the *University of Potsdam* in Germany 🇩🇪, an experience that enriched my international perspective and sparked my interest in learning German.
 
-  <main>
-    <section>
-      <h2>About</h2>
-      <p>
-        I’m currently pursuing a Master’s degree in <strong>Corporate Communication (Master COM)</strong> at the University of Milan (SPES), after earning my Bachelor’s in Communication Sciences from the University of Palermo.
-      </p>
-      <p>
-        During my studies, I spent an Erasmus semester at the <strong>University of Potsdam</strong> in Germany. Outside of university, I enjoy listening to music, baking from scratch, and stand-up paddleboarding.
-      </p>
-    </section>
+## I'm particularly interested in:
+- Designing visual content, presentations and graphics with **Canva** 🎨;
+- **Visual storytelling** and creative digital content creation ✨;
+- Discovering new **music** and curating playlists 🎧.
 
-    <hr>
+## Experience & Projects:
+- **Master COM Web Prototype:** Responsive landing page built with HTML5, CSS and JavaScript for the Corporate Communication program at UniMi;
+- **Visual Design Lab — Scientific Magazine Redesign:** Complete editorial redesign of a scientific magazine developed during my Bachelor's degree using the **Adobe Creative Cloud** suite;
+- **Photography Lab — Visual Storytelling Project:** Narrative photo series captured and curated by me to tell a visual story through original photography.
 
-    <section>
-      <h2>Experience &amp; Projects</h2>
-      <ul>
-        <li>
-          <strong>Marketing &amp; Events Intern — Meditalia Group:</strong>
-          150-hour internship focusing on event organization, CRM integration, and digital community initiatives (Bachelor’s thesis case study).
-        </li>
-        <li>
-          <strong>Master COM Web Prototype:</strong>
-          Responsive landing page built with HTML5, CSS3, and JavaScript for the Corporate Communication program at UniMi.
-        </li>
-        <li>
-          <strong>Data &amp; Visual Projects:</strong>
-          Academic coursework combining data cleaning in RStudio with visual communication assets designed in Canva.
-        </li>
-      </ul>
-    </section>
+## Skills & Languages:
+- **Tools:** HTML5, CSS3, JavaScript (Basic), Git & GitHub, RStudio, Canva
+- **Languages:** Italian (Native), English (B2), German (base)
 
-    <hr>
-
-    <section>
-      <h2>Skills &amp; Languages</h2>
-      <p><strong>Communication:</strong> Corporate Communication, Event Management, CRM, Content Creation</p>
-      <p><strong>Tools:</strong> HTML5, CSS3, JavaScript (Basic), Git &amp; GitHub, RStudio, Canva</p>
-      <p><strong>Languages:</strong> Italian (Native), English (B2 Certified), German (A1)</p>
-    </section>
-  </main>
-
-  <hr>
-
-  <footer>
-    <p><small>© 2026 Sofia Presburgo</small></p>
-  </footer>
-
-</body>
-</html>
+## Get in touch:
+- **Email:** [sofia.presburgo@studenti.unimi.it](mailto:sofia.presburgo@studenti.unimi.it)
+- **GitHub:** [github.com/sofiapresburgo](https://github.com/sofiapresburgo)
