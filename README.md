@@ -16,7 +16,7 @@ During my studies, I also completed an Erasmus exchange semester at the *Univers
 - **Photography Lab — Visual Storytelling Project:** Narrative photo series captured and curated by me to tell a visual story through original photography.
 
 ## Skills & Languages:
-- **Tools:** HTML5, CSS3, JavaScript (Basic), Git & GitHub, RStudio, Canva
+- **Tools:** HTML5, CSS, JavaScript (Basic), Git & GitHub, RStudio, Canva
 - **Languages:** Italian (Native), English (B2), German (base)
 
 ## Get in touch:
